@@ -1,6 +1,8 @@
 # Hola | Hi | Hallo
 
-My name is **Juan**, a former Civil Engineer who redirected my career towards a newfound passion – CODING! I specialize in diverse areas such as backend development, cloud infrastructure, data analysis and creating insightful dashboards along the way.
+My name is **Juan**, a former Civil Engineer who redirected my career towards a newfound passion – CODING! 
+
+I specialize in diverse areas such as backend development, cloud infrastructure, data analysis and creating insightful dashboards along the way.
 
 Take a look at [my portfolio](https://troopl.com/juancotrino) and ask me any questions.
 
